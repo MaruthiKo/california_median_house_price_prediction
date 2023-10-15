@@ -13,5 +13,5 @@ A project to learn an end-to-end building of a machine learning project
 Create a new environment
 
 ```bash
-conda create -n venv python=3.7 -y
+conda create -n venv python==3.7 -y
 ```
